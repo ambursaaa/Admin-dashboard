@@ -1,17 +1,27 @@
-Admin Panel Overview
-This admin panel is a modern, responsive dashboard built using React, TypeScript, and Tailwind CSS, offering a sleek and powerful interface for managing data and user activity. It features modular components, reusable layouts, dark mode support, and clean routing for seamless navigation. Designed with both scalability and user experience in mind, this panel serves as a solid foundation for any SaaS product, internal tool, or content management system.
+# Admin Panel Dashboard
 
-Key Features:
-Authentication & Routing: Secure login and protected routes.
+A sleek, modern admin dashboard built with **React**, **TypeScript**, and **Tailwind CSS**. This panel provides a clean, modular structure perfect for managing data, users, and analytics in any SaaS, e-commerce, or internal tool.
 
-Dashboard UI: Interactive and responsive layout with sidebar navigation.
+## Features
 
-Reusable Components: Built for extensibility and ease of maintenance.
+- 🔐 **Authentication & Routing** – Secure login system with protected routes.
+- 🧩 **Modular Components** – Built with reusability and scalability in mind.
+- 🌙 **Dark Mode** – Fully integrated dark theme using Tailwind CSS.
+- ⚡ **Performance-Optimized** – Uses modern React and TypeScript best practices.
+- 📱 **Responsive Design** – Mobile-friendly layout and adaptive navigation.
+- 🧭 **Sidebar Navigation** – Intuitive UI for managing dashboard content.
 
-Dark Mode: Fully supported via Tailwind’s dark theme classes.
+## Tech Stack
 
-Performance-Optimized: Built with modern React practices and optimized TypeScript support.
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **Vite**
 
-Credits
-This project was inspired and guided by the excellent tutorial by PedroTech on YouTube. Check out the full video here:
-🎥 Full Tutorial – React Admin Dashboard Panel
+## Credits
+
+This project is heavily inspired by the tutorial from **PedroTech**.  
+Check out the full tutorial here:  
+🎥 [React Admin Dashboard Panel - PedroTech](https://www.youtube.com/watch?v=wYpCWwD1oz0)
+
+## 🛠️ Getting Started
